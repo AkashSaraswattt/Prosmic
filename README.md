@@ -72,7 +72,7 @@ Save hours of reading and watching with intelligent summarization:
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
-- Node.js (v18+)
+- Node.js 20.19+ (20.x) or 22.12+ for the Vite frontend
 - Python 3.x (for PDF generation and specialized tools)
 - API Keys: OpenAI, Google Gemini, GitHub Token, Twitter (X) API, Gmail App Password
 
