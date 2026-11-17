@@ -78,8 +78,8 @@ Save hours of reading and watching with intelligent summarization:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Mohhit6075/AI-Agent.git
-cd AI-Agent
+git clone https://github.com/AkashSaraswattt/Prosmic.git
+cd Prosmic
 ```
 
 ### 2. Backend Setup
@@ -151,7 +151,7 @@ cd AI-Agent
 ## 📂 Project Structure
 
 ```
-AI-Agent/
+Prosmic/
 ├── frontend/                 # React + Vite application
 │   ├── src/
 │   │   ├── components/
