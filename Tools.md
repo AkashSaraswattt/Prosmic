@@ -6,9 +6,9 @@
     Daily Use: Automatically log project ideas or capture interesting links found during browserSearch into your workspace.
     Function: note_add, note_view, note_delete, archive_note, unarchive_note, note_search
 
-3. GitHub / GitLab Assistant: 🚀 ✅
-    Function: git_status, git_commit, git_push, github_issue, github_pr, github_repo_stats.
-    Daily Use: "Commit my changes and push to main" or "Look up the most starred AI repos on GitHub today."
+3. Git & GitHub Assistant: 🚀 ✅
+    Function: `gitCheckStatus`, `gitCommitAll`, `gitPush`, `githubCreateIssue`, `githubCreatePullRequest`, `githubGetRepoStats`.
+    Daily Use: "Check the working tree for changes" or "Show the stars and open issue count for this GitHub repository."
 
 5. YouTube / Article Summarizer: ✅
     Function: youtubeGetTranscript, articleSummarize, extractKeyPoints
