@@ -1,5 +1,5 @@
-1.  Google Calendar / Outlook Connector: 💡
-    Function: calendar_add_event, calendar_view_day.
+1.  Google Calendar Connector: 💡
+    Function: `calendarListEvents`, `calendarAddEvent`, `calendarViewDay`.
     Daily Use: "Schedule a meeting with the design team at 2 PM" or "What does my day look like?"
 
 2. Google keep notes
